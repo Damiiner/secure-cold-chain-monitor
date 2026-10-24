@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+*.code-workspace
+__pycache__/
+*.pyc
+.venv/
+venv/
+log.txt
+live_log.txt
+Thumbs.db
+.DS_Store
